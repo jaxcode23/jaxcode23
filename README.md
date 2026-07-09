@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>👋 Hi, I'm <b>Jash Ajmera</b>
-<br>🔧 Full Stack Developer | AI/ML Enthusisast
+<br>🔧 Full Stack Developer | AI/ML Enthusiast
 <br>🎓 B.Tech Computer Science — SRM University, KTR (2025–2029)
 
 
